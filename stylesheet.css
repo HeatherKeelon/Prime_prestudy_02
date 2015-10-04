@@ -1,0 +1,15 @@
+body {
+	background-color: #800000;
+	font-family: Georgia, serif;
+}
+
+h1 {
+	text-align: center;
+	color: #FFFFFF;
+}
+
+h2 {
+	text-align: center;
+	color: #FFFFFF;
+	margin-top: -10px;
+}
